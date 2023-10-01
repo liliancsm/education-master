@@ -1,0 +1,9 @@
+local/
+**/iframe_figures/
+**/.ipynb_checkpoints
+**/.DS_Store
+**/__pycache/
+**/__pycache__/
+bootcamp/project/data
+bootcamp/project/app
+.python-version
