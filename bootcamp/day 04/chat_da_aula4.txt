@@ -1,0 +1,370 @@
+Beatriz Pierri (CGAA3)  to  Everyone 9:56
+Que contuudo SENSACIONAL!!!!!!!!!
+
+Mônica Botelho  to  Everyone 9:54
+Não é mcdonalds, mas amo tudo isso
+
+Risla Miranda 9:56
+Ô, mulher, tô adorando teus comentários, mas aqui no seu usuário aparece um número e não teu nome!
+
+Mônica Botelho 9:57
+vou corrigir
+
+Mônica Botelho 9:58
+foi pra conta! corrig
+
+Bruno Garcia (monitor)  to  Everyone 10:04
+esse caderno vai ficar disponível, né?
+já está no conteúdo da aula
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 10:03
+esse caderno vai ficar disponível, né?
+
+Helio Macedo 10:05
+https://github.com/heliomacedofilho/bootcamp-analise-de-dados-enap-2023/tree/main/bootcamp/day%2004
+
+harlane.magalhaes 10:08
+Adorei o API!!😍
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 10:08
+achei o arquivo normal "Fontes de Dados", mas eu queria esse caderno da Thais!!! 😎
+
+Bruno Garcia (monitor)  to  Everyone 10:09
+achei o arquivo normal "Fontes de Dados", mas eu queria esse caderno da Thais!!! 😎
+perfeito, vamos pedir a ela. Mas fiquem tranquilas que nos exercícios vamos praticar tudo isso.
+
+Glaucia Noblat Hupes/Ebserh BA  to  Everyone 10:13
+pesquisei mas n aparece n.. n deve ter mesmo
+
+Profa. Josilene Aires  to  Everyone 10:14
+https://www.gov.br/conecta/catalogo/
+
+Helio Macedo  to  Everyone 10:14
+https://portaldatransparencia.gov.br/api-de-dados
+
+Profa. Josilene Aires  to  Everyone 10:14
+catálogo das APIs governamentais
+
+Priscilla Uchoa 10:14
+Sim, sim.. tá no material
+
+harlane.magalhaes  to  Everyone 10:15
+https://portaldatransparencia.gov.br/api-de-dados
+Achei!! Maravilhaaaaaa
+
+Glaucia Noblat Hupes/Ebserh BA  to  Everyone 10:12
+além da pesquisa pelo google existe outro caminho para verificar se existe determinado api? pesquisei nno google api de farmacovigilância/reações adversas a medicamentos da anvisa e não apareceu informação
+
+Priscilla Uchoa 10:12
+Se vc for API anvisa e lá ver se algo tem utilidade pra vc, será se n rola?
+
+Helio Macedo 10:13
+A Anvisa não disponibiliza API 😞
+
+Helio Macedo 10:14
+Alguns dados são disponibilizados no portal de dados abertos, bem como você poderá também fazer raspagem de dados como alternativa.
+
+Glaucia Noblat Hupes/Ebserh BA 10:15
+sim sim
+
+Priscilla Uchoa  to  Everyone 10:24
+É muito bom pra pesquisa qualitativa
+
+Glaucia Noblat Hupes/Ebserh BA  to  Everyone 10:25
+isso funciona para mineração de dados?
+
+Priscilla Uchoa  to  Everyone 10:25
+Aí só confirmando, é uma biblioteca específica, sempre tem que ter o import re ali, né?
+
+Bruno Garcia (monitor)  to  Everyone 10:25
+Aí só confirmando, é uma biblioteca específica, sempre tem que ter o import re ali, né?
+Exatamento
+
+Glaucia Noblat Hupes/Ebserh BA  to  Everyone 10:25
+exemplo: quero perquisar determinadas palavras que aparecem em um sistema de informação
+
+Gislaine Messias de Lima  to  Everyone 10:11
+Os dados abertos são organizados em qual linguagem?
+
+Helio Macedo 10:12
+Você fala a linguagem para desenvolver a API ou a linguagem do dado disponibilizado?
+
+Gislaine Messias de Lima 10:24
+do dado disponibilizado
+
+Helio Macedo 10:26
+O governo pede que seja disponibilizado em qualquer formato que possa ser facilmente processado por computador, sendo json e xml opções
+
+Gislaine Messias de Lima 10:30
+entendi. obrigada!
+
+Helio Macedo  to  Everyone 10:29
+A gente colocou [paginas] porque presumimos que o findall vai retornar uma lista com um único elemento, dessa forma o Python ja entende que ele vai atribuir à variável página o único valor que vem na lista
+
+Mônica Japiassú 10:34
+Vixi, agora buguei. 😄
+
+Bruno Garcia (monitor) 10:38
+é uma sintaxe pouco comum, não esquenta
+mas o find_all retorna uma lista
+
+Bruno Garcia (monitor) 10:39
+daria para fazer o mesmo fazendo: 
+ocorrências = find_all()
+pagina = ocorrências[0]
+
+You  to  Everyone 10:42
+VOU SUBIR O NOTEBOOK USADO NA AULA DE HJ NO GITHUB. SUBI O DE ONTEM TAMBÉM, COMO VOCÊS PEDIRAM. LEMBRANDO QUE O IDEAL É USAR O MATERIAL DOS 'SLIDES' PARA ESTUDO/CONSULTA POIS SÃO MAIS ORGANIZADOS..
+
+Ricardo - Educação Executiva Enap  to  Everyone 10:40
+Bom dia, passando para avisar para não esquecerem de assinar a lista de presença da manhã, tá bom? Bom intervalo para vocês.
+
+Mariana Resende  to  Everyone 10:50
+vai ser ótimo, Bruno!
+
+Glaucia Noblat Hupes/Ebserh BA  to  Everyone 10:50
+vc é top bruno!!!
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 10:57
+"confia no processo, iluska!"
+
+You  to  Everyone 10:58
+isso pode ser feito no próprio jupyter notebook
+
+You  to  Everyone 10:58
+ou jupyter lab
+
+You  to  Everyone 10:59
+import os # para interação com o sistema \ fornece funções para interagir com o sistema operacional. Queremos criar estrutura de pastas
+
+Renata G  to  Everyone 11:00
+os é uma biblioteca para utilizar comandos no sistema operacional
+
+LiaDias  to  Everyone 11:00
+kkk,  John travolta no meme
+
+Erika  to  Everyone 10:59
+o que significa o "cd" no comando?
+
+Mariana Costa 11:00
+cd change directory (mudar de pasta)
+
+Erika 11:00
+obrigada!
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 11:00
+agora entendi!
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 11:01
+ele tá mostrando como faz pra criar pasta por dentro do python!!!!!!!!!!!! ahhhhhhhhhhhhhhhhh
+
+Mônica Botelho  to  Everyone 11:10
+*uma
+
+You  to  Everyone 11:11
+passo a passo: #obter o diretório de trabalho atual do programa em execução 
+
+current_folder = os.getcwd()
+current_folder
+
+
+# Vamos criar uma pasta que armazenará todos os arquivos que utilizaremos nas aulas do bootcamp: project
+folderpath = os.path.join(current_folder, os.pardir, 'project')
+folderpath
+
+
+# para ver o caminho inteiro
+folderpath = os.path.abspath(folderpath)
+
+#Agora vamos criar uma estrutura de pastas a partir desse ponto: na pasta data/raw, colocaremos os dados brutos.
+folderpath = os.path.join(folderpath, 'data', 'raw')
+
+# Agora sim vamos criar a estrutura de pastas:
+
+if not os.path.exists(folderpath): 
+    os.makedirs(folderpath)
+
+You  to  Everyone 11:12
+não precisa decorar.. só saber que existe
+
+Mônica Botelho  to  Everyone 11:10
+@Helio Macedo, eu poderia criar algo como: se a pessoa bater 3 senhas erradas para entrar no PC, então bata um foto?
+
+Helio Macedo 11:14
+Tudo é possível 😄 só não sei o seu sistema operacional vai permitir um programa bater foto com a tela bloqueada. Como você usa Mac, eu sei que a Apple não permite por questões de segurança.
+
+Helio Macedo 11:14
+Mas no Android era possível. Já fiz uma vez. Não sei se melhoraram a segurança do Android de lá pra cá.
+
+LiaDias  to  Everyone 11:14
+a pasta atual em que o programa tá sendo executado?
+
+Helio Macedo  to  Everyone 11:28
+Gente, vou ter que me ausentar. Bom restante de aula pra vocês. 👏
+
+Beatriz Pierri (CGAA3)  to  Everyone 11:04
+Pessoal, eu sempre gosto de salvar os chats ao final da aula porque aqui tem muito conteúdo de duvidas (dos monitores e das colegas). Mas hoje meu computador está muito instável e to caindo do zoom com frequência, e consequentemente, perdendo todo o histórico de chats. Algum monitor poderia salvar o chat no final da aula e disponibilizar o conteúdo depois? (no GitHub ou mesmo por e-mail)
+
+You 11:25
+nesse caso, a gente esta dentro da pasta day 04, mas quero criar a pasta dentro do diretório pai(anterior) que é a pasta bootcamp
+
+Fernanda 11:28
+Certo! Obrigada
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 11:29
+excelente pergunta, @LiaDias
+
+Glaucia Noblat  to  Everyone 11:33
+O mesmo tipo todos os dias, são gerados na mesma página 
+
+Glaucia Noblat  to  Everyone 11:33
+Eu gostaria de diariamente buscar resoluções  de medicamentos da Anvisa..  consigo fazer por esse caminho? 
+
+Glaucia Noblat 11:34
+Aí q ótimo!!
+
+You 11:35
+acho que termos um exemplo disso em exericios de hoje ou amanha
+
+Glaucia Noblat 11:35
+Maravilha
+
+Renata G  to  Everyone 11:37
+# incluir encoding
+with open(filepath, encoding='utf-8') as csvfile:
+    for line in csvfile:
+        print(line)
+
+You  to  Everyone 11:33
+recomendo que depois vocês façam esse passo a passo na máquina de vcs. Vai ficar mais fácil de entender o que acontece
+
+Gislaine Thompson 11:39
+@Beatriz Pierri (CGAA3) Esse curso terá uma carga horária real imensamente superior ao que receberemos no certificado 😅. Terei que usar muitas horas da noite e final de semana para acompanhar 😞
+
+You 11:40
+@Gislaine Thompson heheheh.. é desse jeito
+
+Risla Miranda 11:41
+Eu que tenho neném não consigo horas fora para concluir os exercícios - algo que queria muito fazer - e rever e testar novas coisas que estou vendo por aqui hehehehe
+
+Iluska Kaltenecker Retto de Queiroz 11:41
+e eu acho q sairemos com muito aprendizado e com muita bagagem para estudar depois. Outra coisa: acho q não seremos comparáveis entre nós. Algumas estão anos luz à frente...rs
+
+Beatriz Pierri (CGAA3) 11:41
+Todo dia estou indo até meia-noite e não to vencendo (rs). Mas o grande ganho, para mim, é ter uma linha de aprendizagem: ainda que eu não entenda tudo o que está sendo passado, depois, com calma, vou revisitando os notebooks, revendo as aulas gravadas, fazendo os exercícios e complementado conhecimento via google... Vai dar bom!!! rs
+
+Bruno Garcia (monitor)  to  Everyone 11:41
+https://www.oracle.com/br/database/what-is-a-relational-database/
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 11:43
+isso é o mesmo chaveamento no power BI!!!!!
+
+Priscilla Uchoa  to  Everyone 11:41
+existe um jeito simples de converter xlsx em csv?
+
+Alana  to  Everyone 11:43
+Depois podia ter um curso de banco de dados para análise de dados
+
+LiaDias  to  Everyone 11:45
+como faz pra deixar a visualização dos cadernos  igual ao do bruno, com tópicos, do lado esquerdo, no jupyter usando anaconda, alguém sabe?
+
+Erika  to  Everyone 11:51
+tá explicado pq o pandas é tão amado haha
+
+LiaDias  to  Everyone 11:47
+aqui não tem, procurei em view tb, mas não achei. mas brigada de toda forma...
+
+LiaDias 11:53
+3.11.5
+
+You 11:54
+qualquer coisa na monitoria vc pede auxilio dos monitores. a gente faz com vc
+
+LiaDias 11:55
+tranquilo, brigada, meninas
+
+Ricardo - Educação Executiva Enap  to  Everyone 11:57
+Só para reforçar caso alguma de vocês tenha esquecido de assinar a lista de frequência.
+
+Aline Fonseca  to  Everyone 11:58
+Até a tarde!
+
+Beatriz Pierri (CGAA3)  to  Everyone 11:59
+entra no caderno da aula e vai executando um a um
+
+Lilian Nakayama  to  Everyone 12:01
+deu erro pq ele não achou o modulo pandas
+mas coloquei import pandas
+
+LiaDias 11:57
+olha meu nível, kkk, agora que entendi
+
+LiaDias 11:57
+tava usando o notebook, vou testar o lab
+
+Renata G 12:01
+mas o notebook tb tem isso.
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 11:59
+tchau, pessoal. 
+Aula de hj será devidamente revisada no sábado! Muita coisa absolutamente nova pra mim.
+
+harlane.magalhaes 12:00
+Farei o mesmo!😅
+
+Beatriz Pierri (CGAA3) 12:01
+99,9% novo para mim, desde o minuto 5 da aula rs... nem API sabia o que era!
+
+Priscilla Uchoa 12:01
+Eu tbm, tô meio em pânico
+
+Iluska Kaltenecker Retto de Queiroz 12:02
+@Priscilla Uchoa 
+Confia no processo. Vai dar tudo certo!!!!
+
+Iluska Kaltenecker Retto de Queiroz 12:03
+eu acho q quando terminarmos o curso e viermos revisando tudo, muitos buracos já estão preenchidos
+
+Bruna Moura  to  Everyone 12:02
+Até a tarde, pessoal!
+
+Lilian Nakayama  to  Everyone 12:02
+e não deu certo fazer import pandas
+
+Risla Miranda 12:02
+Provavelmente precisa instalar
+!pip install pandas
+
+Lilian Nakayama  to  Everyone 12:02
+alguém com mesmo problema?
+
+Priscilla Uchoa  to  Everyone 12:03
+Não tentei
+
+Beatriz Pierri (CGAA3)  to  Everyone 12:03
+o comando é: import pandas as np
+
+You  to  Everyone 12:03
+!pip install pandas
+
+Lilian Nakayama  to  Everyone 12:03
+não deu
+
+Beatriz Pierri (CGAA3)  to  Everyone 12:03
+tem que dar uma alias acho (ao menos no colab é assim)
+
+Priscilla Uchoa 12:03
+era pd, np é o numpy hauahaua
+
+Beatriz Pierri (CGAA3) 12:03
+isso, confundo rs é pd
+
+You  to  Everyone 12:03
+não tem esse "as np"
+!pip install requests
+
+Priscilla Uchoa  to  Everyone 12:05
+bó comer
+
+Iluska Kaltenecker Retto de Queiroz  to  Everyone 12:05
+gente, obrigada pela aula de hj! Doeu mas vai ser bom!!!! Já sou grata pelo que vou consolidar no sábado
